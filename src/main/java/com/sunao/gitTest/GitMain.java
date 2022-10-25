@@ -8,5 +8,6 @@ public class GitMain {
         System.out.println("Hello Git4");
         System.out.println("Hello master Git1");
         System.out.println("Hello hot-fix Git1");
+        System.out.println("Hello push Git1");
     }
 }
